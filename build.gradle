@@ -273,7 +273,7 @@ subprojects {
           }
           pom {
             name = "Signers - ${project.name}"
-            url = 'http://github.com/PegaSysEng/signers'
+            url = 'http://github.com/ConsenSys/signers'
             licenses {
               license {
                 name = 'The Apache License, Version 2.0'
@@ -281,9 +281,9 @@ subprojects {
               }
             }
             scm {
-              connection = 'scm:git:git://github.com/PegaSysEng/signers.git'
-              developerConnection = 'scm:git:ssh://github.com/PegaSysEng/signers.git'
-              url = 'https://github.com/PegaSysEng/signers'
+              connection = 'scm:git:git://github.com/ConsenSys/signers.git'
+              developerConnection = 'scm:git:ssh://github.com/ConsenSys/signers.git'
+              url = 'https://github.com/ConsenSys/signers'
             }
           }
         }
